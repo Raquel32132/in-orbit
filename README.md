@@ -4,7 +4,7 @@ This is a simple server application built with NodeJS to manage goals. This is a
 ---
 
 ## Getting Started
-To get started with this project, simply clone or download the repository and run 'npm install' to install the required dependencies. You can then start the app by running 'npm run dev'.
+To get started with this project, simply clone or download the repository and run 'npm install' to install the required dependencies. You can then start the server by running 'npm run dev'.
 
 ## Routes
 
